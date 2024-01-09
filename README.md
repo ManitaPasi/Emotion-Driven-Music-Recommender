@@ -1,22 +1,29 @@
-# emotion-based-music
-<h1>Explaination Video</h1>
-<a href="https://youtu.be/uDzLxos0lNU">Emotion based music | ai | deep learning project | with code | ml project</a>
+# Emotion-Driven Music Recommender
+
 <a href="https://youtu.be/uDzLxos0lNU"><img src="emotion.jpg"/></a>
 
-<h1>Description</h1>
-Welcome to new project emotion based music built by using mediapipe and keras. also opencv and streamlit is used to create a webapp. for capturing the webcam in the browser i used streamlit-webrtc module. I explained all of the code in this video which is required to create a webapp for emotion based music recommender.
-<br><br>
-In this video I used live emoji project code to create a model which could classify different emotions so I already explained the code for that which is over here
-<br>Data Collection script : https://youtu.be/ZxZSGRdTLtE
-<br>Data Training and Inference script : https://youtu.be/He_oZ-MnIrU
-<br>code for live emoji : https://github.com/Pawandeep-prog/liveEmoji
 
-<h1>Connect with me</h1>
-If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-facebook : https://m.facebook.com/proogramminghub<br>
-instagram : @programming_hut<br>
-twitter : https://twitter.com/programming_hut<br>
-github : https://github.com/Pawandeep-prog<br>
-discord : https://discord.gg/G5Cunyg<br>
-linkedin : https://www.linkedin.com/in/programminghut<br>
-youtube : https://www.youtube.com/c/programminghutofficial<br>
+
+## Overview
+The Emotion-Driven Music Recommender is an innovative application designed to recommend music based on the user's emotional state. This application utilizes advanced algorithms to analyze the user's mood and suggests songs that match or uplift their current feelings.
+
+## Features
+- **Emotion Detection**: Leverages facial recognition or textual input to assess the user's current emotional state.
+- **Music Recommendation Engine**: Curates a personalized playlist based on the detected emotion, using a vast database of songs with tagged emotional tones.
+- **User Profile Management**: Allows users to create and manage their profiles, storing their music preferences and history.
+- **Interactive UI**: A user-friendly interface that enhances the overall experience.
+
+## Installation
+To install the Emotion-Driven Music Recommender, follow these steps:
+
+1. Clone the repository:
+2. Navigate to the project directory:
+3. Install the required packages:
+
+## Usage
+After installation, you can run the application using the following command:
+Follow the on-screen instructions to use the application.
+
+## Contributing
+Contributions to the Emotion-Driven Music Recommender are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
+
